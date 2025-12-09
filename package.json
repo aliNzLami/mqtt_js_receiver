@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node receiver.js"
+    "start": "node reciever.js"
   },
   "keywords": [],
   "author": "",
